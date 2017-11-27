@@ -210,10 +210,10 @@ public double evaluateArea(int item1,int item2,double value)
         return temp;
     }
 }
-    ///////////////////////////////ARea end
+    ///////////////////////////////end Area
 
 
-   ///////////////////////// Start tempterature
+   ///////////////////////// Start Tempterature
    public double evaluateTemp(int item1,int item2,double value)
    {
        double temp = 0.0;
